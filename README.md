@@ -10,5 +10,5 @@
 
 
 <div align="center">
-![snake gif](https://github.com/zakaria-ch49/zakaria-ch49/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/zakaria-ch49/zakaria-ch49/blob/output/github-snake-dark.svg)
 </div>
